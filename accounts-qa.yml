@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to TravelBank accounts related QA1122 APIs "
+  message: "Welcome to TravelBank accounts related QA APIs "
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@travelbank.com"
