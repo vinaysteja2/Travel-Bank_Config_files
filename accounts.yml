@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to TravelBank accounts related local APIs "
+  message: "Welcome to TravelBank accounts related Docker APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@travelbank.com"
